@@ -1,5 +1,4 @@
-bleupunkt-custom-css
-====================
+# Bleupunkt Custom.css
 
 Dark blue Custom.css dev tools theme for Chrome/Chromuim
 
